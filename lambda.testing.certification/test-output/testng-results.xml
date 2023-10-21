@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MyLambadaTest" duration-ms="33301" started-at="2023-10-21T06:29:10Z" finished-at="2023-10-21T06:29:43Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="33301" started-at="2023-10-21T06:29:10Z" finished-at="2023-10-21T06:29:43Z">
+      <class name="com.org.lambda.testing.certification.lambdaTestAuto">
+        <test-method status="PASS" signature="verifyIntegrations(org.testng.ITestContext)[pri:0, instance:com.org.lambda.testing.certification.lambdaTestAuto@4501b7af]" name="verifyIntegrations" duration-ms="33275" started-at="2023-10-21T11:59:10Z" finished-at="2023-10-21T11:59:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3c0f93f1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIntegrations -->
+      </class> <!-- com.org.lambda.testing.certification.lambdaTestAuto -->
+    </test> <!-- test -->
+  </suite> <!-- MyLambadaTest -->
+</testng-results>
